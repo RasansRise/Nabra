@@ -25,7 +25,9 @@ Last change:	11/02/2015
 /*--------------------------------------*/
 /* 1. Helper Classes -------------------*/
 /*--------------------------------------*/
-
+::-webkit-scrollbar{
+	display: none;
+}
 .align-center {text-align:center}
 .aligh-left {text-align:left}
 .align-right {text-align:right}
